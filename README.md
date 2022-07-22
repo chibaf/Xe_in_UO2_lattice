@@ -1,6 +1,8 @@
 # Xe_in_UO2_lattice
 Xe in UO2 lattice
 
+* Generating lammps lattice data
+
 (1) UO2 lattice
 
 usage: python3 fcc111.py > data.fcc111
