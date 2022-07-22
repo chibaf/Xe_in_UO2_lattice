@@ -5,9 +5,9 @@ Xe in UO2 lattice
 
 (1) UO2 lattice
 
-usage: python3 fcc111.py > data.fcc111
+usage: python3 fcc111.py > data.fcc111  # lammps lattice data
 
-usage: python2 dat2cfg.py < data.fcc111 > fcc111.cfg
+usage: python2 dat2cfg.py < data.fcc111 > fcc111.cfg  # covert lammps lattice data to AtomEye data
 
 usage: AromEye fcc111.cfg
 
